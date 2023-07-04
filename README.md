@@ -2,7 +2,7 @@
 Social Engineering Simulation
 
 
-Cyber Security and Ethical Hacking project by Kevin Joshua Pereira 20MIC0039 and P. Abhay 20BCI0017
+Cyber Security and Ethical Hacking project by Kevin Joshua Pereira (20MIC0039) and P. Abhay (20BCI0017)
 
 google drive link for demo video, demo video is also present in the repo as mkv file
 
